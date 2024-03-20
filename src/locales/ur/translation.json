@@ -1,0 +1,19 @@
+{
+  "home": "ہوم",
+  "about": "ہمارے بارے میں",
+  "contact": "ہم سے رابطہ کریں",
+  "login": "لاگ ان کریں",
+  "dashboard": "ڈیش بورڈ",
+  "resources" : "وسائل",
+  "flowbite" : "فلو بائٹ",
+  "tailwind_css" : "ٹیل وائنڈ سی ایس ایس",
+  "follow_us" : "ہمیں پیروی کریں",
+  "github" : "گِٹ ہب",
+  "discord" : "ڈسکورڈ",
+  "legal" : "قانونی",
+  "privacy_policy" : "رازداری کی پالیسی",
+  "term&conditions" : "شرائط و ضوابط",
+  "footer": {
+      "all_right_reserverd": "2023 Flowbite™. تمام حقوق محفوظ ہیں۔"
+  }
+}
